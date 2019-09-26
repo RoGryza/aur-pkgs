@@ -1,0 +1,12 @@
+[submodule "dhall/dhall-bash-bin"]
+	path = dhall/dhall-bash-bin
+	url = ssh://aur@aur.archlinux.org/dhall-bash-bin.git
+[submodule "dhall/dhall-bin"]
+	path = dhall/dhall-bin
+	url = ssh://aur@aur.archlinux.org/dhall-bin.git
+[submodule "dhall/dhall-lsp-server-bin"]
+	path = dhall/dhall-lsp-server-bin
+	url = ssh://aur@aur.archlinux.org/dhall-lsp-server-bin.git
+[submodule "dhall/dhall-text-bin"]
+	path = dhall/dhall-text-bin
+	url = ssh://aur@aur.archlinux.org/dhall-text-bin.git
