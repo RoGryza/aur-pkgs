@@ -10,3 +10,6 @@
 [submodule "dhall/dhall-text-bin"]
 	path = dhall/dhall-text-bin
 	url = ssh://aur@aur.archlinux.org/dhall-text-bin.git
+[submodule "propellor/propellor"]
+	path = propellor/propellor
+	url = ssh://aur@aur.archlinux.org/propellor.git
