@@ -13,3 +13,6 @@
 [submodule "propellor/propellor"]
 	path = propellor/propellor
 	url = ssh://aur@aur.archlinux.org/propellor.git
+[submodule "spotify-tui-bin"]
+	path = spotify-tui-bin
+	url = ssh://aur@aur.archlinux.org/spotify-tui-bin.git
