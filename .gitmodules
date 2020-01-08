@@ -16,3 +16,6 @@
 [submodule "spotify-tui-bin"]
 	path = spotify-tui-bin
 	url = ssh://aur@aur.archlinux.org/spotify-tui-bin.git
+[submodule "ghcide"]
+	path = ghcide
+	url = ssh://aur@aur.archlinux.org/ghcide.git
