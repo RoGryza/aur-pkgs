@@ -19,3 +19,6 @@
 [submodule "ghcide"]
 	path = ghcide
 	url = ssh://aur@aur.archlinux.org/ghcide.git
+[submodule "haskell-weeder"]
+	path = haskell-weeder
+	url = ssh://aur@aur.archlinux.org/haskell-weeder.git
